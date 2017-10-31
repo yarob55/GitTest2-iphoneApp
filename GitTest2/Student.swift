@@ -9,5 +9,6 @@
 import Foundation
 class Student
 {
-    
+    var name:String!
+    var age:Int!
 }
