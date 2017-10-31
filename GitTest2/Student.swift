@@ -11,4 +11,8 @@ class Student
 {
     var name:String!
     var age:Int!
+    func getGpa() -> Double
+    {
+        return 3.4;
+    }
 }
