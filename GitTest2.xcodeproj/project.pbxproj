@@ -17,6 +17,7 @@
 		49FC80601FA8E9B100F51AC9 /* Register.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FC805F1FA8E9B100F51AC9 /* Register.swift */; };
 		49FC80621FA8E9D900F51AC9 /* (null) in Sources */ = {isa = PBXBuildFile; };
 		49FC80641FA8EE8000F51AC9 /* Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FC80631FA8EE7F00F51AC9 /* Map.swift */; };
+		49FC80661FA8EF1C00F51AC9 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FC80651FA8EF1C00F51AC9 /* Student.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		49FC80531FA8D23B00F51AC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49FC805F1FA8E9B100F51AC9 /* Register.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Register.swift; sourceTree = "<group>"; };
 		49FC80631FA8EE7F00F51AC9 /* Map.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Map.swift; sourceTree = "<group>"; };
+		49FC80651FA8EF1C00F51AC9 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			isa = PBXGroup;
 			children = (
 				49FC80311FA8D23B00F51AC9 /* AppDelegate.swift */,
+				49FC80651FA8EF1C00F51AC9 /* Student.swift */,
 				49FC80631FA8EE7F00F51AC9 /* Map.swift */,
 				49FC80331FA8D23B00F51AC9 /* ViewController.swift */,
 				49FC805F1FA8E9B100F51AC9 /* Register.swift */,
@@ -267,6 +270,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				49FC80641FA8EE8000F51AC9 /* Map.swift in Sources */,
+				49FC80661FA8EF1C00F51AC9 /* Student.swift in Sources */,
 				49FC80601FA8E9B100F51AC9 /* Register.swift in Sources */,
 				49FC80341FA8D23B00F51AC9 /* ViewController.swift in Sources */,
 				49FC80621FA8E9D900F51AC9 /* (null) in Sources */,
