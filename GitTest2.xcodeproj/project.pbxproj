@@ -100,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				49FC80311FA8D23B00F51AC9 /* AppDelegate.swift */,
+				49FC80611FA8E9D900F51AC9 /* Map.swift */,
 				49FC80331FA8D23B00F51AC9 /* ViewController.swift */,
 				49FC805F1FA8E9B100F51AC9 /* Register.swift */,
 				49FC80351FA8D23B00F51AC9 /* Main.storyboard */,
@@ -264,6 +265,7 @@
 			files = (
 				49FC80601FA8E9B100F51AC9 /* Register.swift in Sources */,
 				49FC80341FA8D23B00F51AC9 /* ViewController.swift in Sources */,
+				49FC80621FA8E9D900F51AC9 /* Map.swift in Sources */,
 				49FC80321FA8D23B00F51AC9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
