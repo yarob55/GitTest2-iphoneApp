@@ -16,7 +16,17 @@
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="603"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nhz-1o-n4n">
+                                <rect key="frame" x="164" y="286.5" width="46" height="30"/>
+                                <state key="normal" title="Button"/>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Nhz-1o-n4n" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Rnr-yW-zn8"/>
+                            <constraint firstItem="Nhz-1o-n4n" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="aYd-se-PID"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" title="الطلاب" id="ow4-hn-cew"/>
