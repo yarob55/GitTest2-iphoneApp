@@ -9,5 +9,8 @@
 import Foundation
 class Student
 {
-    
+    func getGpa() -> Double
+    {
+        return 3.4;
+    }
 }
